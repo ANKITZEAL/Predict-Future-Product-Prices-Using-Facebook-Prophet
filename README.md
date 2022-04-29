@@ -20,6 +20,8 @@ seas
 2.  https://facebook.github.io/prophet/
 - Components of Facebook Prophet
 
+![image](https://user-images.githubusercontent.com/70902291/165901488-cb4e3eb7-e2ff-4059-92bb-721712b37be4.png)
+
 
 
 ## Installation
@@ -56,6 +58,11 @@ Task 4: Prepare the data for Facebook Prophet
 Task 5: Understand the theory and intuition behind Facebook Prophet 
 Task 6: Develop forecasting model and make predictions - Part A
 Task 7: Develop forecasting model and make predictions - Part B
+
+![image](https://user-images.githubusercontent.com/70902291/165901470-e633166f-2504-4fa8-aee8-d010e19d90ee.png)
+![image](https://user-images.githubusercontent.com/70902291/165901446-4ca51421-77ca-4b97-a695-888ea113f7a8.png)
+![Uploading image.png…]()
+
 
 
 ## License
