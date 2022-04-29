@@ -52,6 +52,7 @@ Predicting Future Product Prices Using Facebook Prophet
 
 We are provided with avocado dataset and we have to predict Averageprice for next one year with respect to different regions.
  ## Project on Predict Future Product Prices using Facebook Prophet is divided into following tasks.
+ 
 Task 1: Project overview
 Task 2: Import Libraries and data-sets
 Task 3: Explore Data-set
@@ -59,6 +60,9 @@ Task 4: Prepare the data for Facebook Prophet
 Task 5: Understand the theory and intuition behind Facebook Prophet 
 Task 6: Develop forecasting model and make predictions - Part A
 Task 7: Develop forecasting model and make predictions - Part B
+
+
+
 
 ![image](https://user-images.githubusercontent.com/70902291/165901470-e633166f-2504-4fa8-aee8-d010e19d90ee.png)
 ![image](https://user-images.githubusercontent.com/70902291/165901446-4ca51421-77ca-4b97-a695-888ea113f7a8.png)
