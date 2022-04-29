@@ -20,7 +20,8 @@ seas
 2.  https://facebook.github.io/prophet/
 - Components of Facebook Prophet
 
-![image](https://user-images.githubusercontent.com/70902291/165901488-cb4e3eb7-e2ff-4059-92bb-721712b37be4.png)
+![image](https://user-images.githubusercontent.com/70902291/165901635-2941593d-681d-4a9a-a6ee-42a86e48ebf9.png)
+
 
 
 
